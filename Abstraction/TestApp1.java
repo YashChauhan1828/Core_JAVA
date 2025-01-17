@@ -7,6 +7,7 @@ public class TestApp1
 		B obj = new B();
 		obj.Test1();
 		obj.Test2();
+		obj.Test5();
 		
 		A objA = new B();
 		objA.Test1();

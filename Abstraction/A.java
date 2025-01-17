@@ -8,4 +8,8 @@ public abstract class A
 	{
 		System.out.println("A: Test 2");
 	}
+	public void Test5()
+	{
+		System.out.println("A: Test 5");
+	}
 }
